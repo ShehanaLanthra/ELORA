@@ -12,6 +12,11 @@ The main goal of the project was to create a smooth and visually appealing shopp
 
 ---
 
+## 🔗 Figma Prototype
+
+[View ELORA Prototype in Figma](https://www.figma.com/design/3VfHaHN54ZxBLFPjwAS431/Untitled?node-id=0-1&t=mc3VLuMXkDQz4eUq-1)
+
+
 ## 🛍️ Main Features
 
 * 🔐 Login & Sign Up
